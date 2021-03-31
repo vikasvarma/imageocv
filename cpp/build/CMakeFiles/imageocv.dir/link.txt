@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libimageocv.a CMakeFiles/imageocv.dir/src/findlane.cpp.o CMakeFiles/imageocv.dir/src/imageio.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libimageocv.a

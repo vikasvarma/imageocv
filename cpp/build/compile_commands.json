@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/vikasvarma/Documents/Development/imageocv/cpp/build",
+  "command": "/usr/bin/clang++ -I../include/imageocv -isystem /Users/vikasvarma/Documents/Development/lib/opencv/install/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -o CMakeFiles/imageocv.dir/src/findlane.cpp.o -c /Users/vikasvarma/Documents/Development/imageocv/cpp/src/findlane.cpp",
+  "file": "/Users/vikasvarma/Documents/Development/imageocv/cpp/src/findlane.cpp"
+},
+{
+  "directory": "/Users/vikasvarma/Documents/Development/imageocv/cpp/build",
+  "command": "/usr/bin/clang++ -I../include/imageocv -isystem /Users/vikasvarma/Documents/Development/lib/opencv/install/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -o CMakeFiles/imageocv.dir/src/imageio.cpp.o -c /Users/vikasvarma/Documents/Development/imageocv/cpp/src/imageio.cpp",
+  "file": "/Users/vikasvarma/Documents/Development/imageocv/cpp/src/imageio.cpp"
+},
+{
+  "directory": "/Users/vikasvarma/Documents/Development/imageocv/cpp/build",
+  "command": "/usr/bin/clang++ -I../include/imageocv -isystem /Users/vikasvarma/Documents/Development/lib/opencv/install/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -o test/CMakeFiles/imageocv_test.dir/main.cpp.o -c /Users/vikasvarma/Documents/Development/imageocv/cpp/test/main.cpp",
+  "file": "/Users/vikasvarma/Documents/Development/imageocv/cpp/test/main.cpp"
+}
+]

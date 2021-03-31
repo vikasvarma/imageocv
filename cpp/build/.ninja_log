@@ -1,0 +1,6 @@
+# ninja log v5
+19	4664	1616819227066718519	CMakeFiles/imageocv.dir/src/findlane.cpp.o	6a08801b937b2cee
+2790	2922	1616861803258627485	test/imageocv_test	26ec5528682f5338
+3325	3461	1616821510974520000	libimageocv.a	6f9ba9f2feac1d63
+5	3325	1616821510810793832	CMakeFiles/imageocv.dir/src/imageio.cpp.o	791c492bc547ae3b
+3	2790	1616861803111597836	test/CMakeFiles/imageocv_test.dir/main.cpp.o	113fafdd1cf698b3
